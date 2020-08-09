@@ -1,1 +1,0 @@
-void read_dimension(float *dimension_var_rxd);
