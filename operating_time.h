@@ -1,0 +1,1 @@
+#define OPERATING_TIME_MAX_UPPER_LIMIT (int)
